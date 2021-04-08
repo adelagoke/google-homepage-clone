@@ -1,0 +1,35 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+
+    background-color: white;
+}
+p {
+    color:black;
+}
+:link {
+    color: rgb(25, 0, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(50, 19, 189);
+    background-color: transparent;
+    text-decoration: none;
+} 
+
+a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active{
+    color: rgb(16, 28, 196);
+    background-color: transparent;
+    text-decoration: underline;
+}
